@@ -12,7 +12,8 @@ Let's start with being formal. Use this when you're chatting to those superior t
 ## Casual 
 what about casual? well in this form u just use lowercase and abbv. Mostly everything (I still recommend you to use uppercase on 'i'). Also, when chatting casually, try to avoid writing in sentences.. but if you do, that's absolutely fine as well. Now, there are some other things to keep in mind. 
 
-### How to Casual 101
+How to Casual 101
+------------------
 #### Exclamation marks 
 
 When chatting casually, you should keep in mind where and when you use exclamation marks! It may sound very cringy and many people may not like it! 

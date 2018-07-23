@@ -6,12 +6,12 @@ Welcome
 My stuff
 =========
 
-## [Chattography](posts/chattography) - How to chat with personality
+#### [Chattography](posts/chattography) - How to chat with personality
 
 
 About
 =====
 
-### Hi. I do stuff, I learn stuff, and end up doing stuff. **I have no idea what I'm doing**
+Hi. I do stuff, I learn stuff, and end up doing stuff. **I have no idea what I'm doing**
 
 ![favicon](favicon.ico)

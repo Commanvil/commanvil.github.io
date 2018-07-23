@@ -14,4 +14,4 @@ About
 
 ### Hi. I do stuff, I learn stuff, and end up doing stuff. **I have no idea what I'm doing**
 
-[favicon](favicon.ico)
+![favicon](favicon.ico)

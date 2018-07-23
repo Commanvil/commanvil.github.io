@@ -6,4 +6,4 @@ As you can see, this website is under development. Everything you see here is su
 My stuff
 =========
 
-**(there's nothing here yet smh)**
+[Chattography](posts/chattography)

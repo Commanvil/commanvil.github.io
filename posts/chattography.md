@@ -16,10 +16,10 @@ what about casual? well in this form u just use lowercase and abbv. Mostly every
 
 When chatting casually, you should keep in mind where and when you use exclamation marks! It may sound very cringy and many people may not like it! 
 
-#### To not place when sound odd 
+##### To not place when sound odd 
 Never place them after those expressive internet abbreviations (such as: lol!! omg!! wtf!!) In this case, if you want to add emphasis, you can only fully capitalize OMG. Fully capitalizing LOL or WTF makes you sound like a total idiot and should be avoided; unless you do want to sound cringy. 
 
-#### To place when needed 
+##### To place when needed 
 Never place them unnecessarily! It's quite simple, use them when you need to. Just look up on how exclamation marks are used in commanding or even sarcasm. An example of sarcasm would be: "Wow you did it! You failed! Congratu-freaking-lations!" 
 
 Another thing to note is that exclamation marks should be placed in phrases and not just in a single word. 

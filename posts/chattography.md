@@ -32,7 +32,7 @@ Much simpler to use compared to exclamation marks. It's mostly not cringy so fee
 As said before, some words may sound odd when capitalized. Especially when you say "Wtf/Omg/Lol" like that. It's very disturbing because it's like you're mixing something formal and something casual together into a huge bowl of mess. Note that these are only example abbv/words, and there could be many others as well. 
 
 #### Quotation marks 
-"Pretty simple, casual chatters use it for sarcasm. Other times for innuendos.. or just use it as it should be used." at least that's what they want you to think. Sure 
+"Pretty simple, casual chatters use it for sarcasm. Other times for innuendos.. or just use it as it should be used." or is it.. (yes it is)
 
 #### Dots and periods 
 Ah... did you feel that? That's the feeling of.. uh.. using lots of dots in your sentences. What do those mean anyway? Well.. they give the tone of "extension". Meaning it's pronounced in a longer duration. "Um" is very quickly said, while "Um......" is similar to "Ummmm". Another use is to add the tone of "uncertainty". For example. "I'm not so sure about that...." or "idk... maybe". (The more dots you put, the more the "uncertainty" tone increases) 

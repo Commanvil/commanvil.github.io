@@ -39,7 +39,7 @@ Ah... did you feel that? That's the feeling of.. uh.. using lots of dots in your
 Note: other times this can indicate sarcasm, such as "Sure...... I believe you......" 
 
 #### Dashes/Hyphens 
-Wait did you just- Uh.. well anyway, I'm pretty sure you know what it's used for. It's when texts are cut out suddenl- or maybe some-word-you-made-up connecting it into one. Many uses. 
+Wait did you just- Uh.. well anyway, I'm pretty sure you know what it's used for. It's when texts are cut out suddenl- or maybe connecting some-word-you-made-up into one. Many uses. 
 
 #### The squiggle 
 Oh boy, we couldn't forget this important fella. Commonly used by weird people. You know like.. kyu~! or nyaaah~

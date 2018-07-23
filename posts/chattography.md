@@ -1,10 +1,10 @@
 Chattography - Casual 101
 =========================
 
-Hey! When you're chatting with someone, do you ever want to know how to show expressions and personality inside some text to someone? Do you ever wonder what those expressions even mean? No? Well who cares, because I'm going to tell you anyway!
+Hey! When you're chatting with someone... do you ever want to know how to show **expressions** and **personality** while chatting to someone? Do you ever wonder what those expressions even mean? No? Well who cares, because I'm going to tell you anyway!
 
 Chattography. You'd think it's a word I just made up, well you're right, it is. I simply combined the word chat and graphic.  
-Why? Because I wanted an easier way to describe how people chatting in social media can have personality and expressing themselves. The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
+Why? Because I wanted an easier way to describe how people chatting in social media can have personality and express themselves. The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
 
 ## Formality 
 Let's start with being formal. Use this when you're chatting to those superior to you. Following standard rules (like remembering to use uppercase and a period). Nothing out of the ordinary here. But you can always add some details here and there. <- much like that sentence where I added variety, using words like "always" or "here and there". Variation is always nice to have in your "style". 

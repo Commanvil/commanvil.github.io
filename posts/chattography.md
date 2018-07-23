@@ -10,7 +10,7 @@ Why? Because I wanted an easier way to describe how people chatting in social me
 Let's start with being formal. Use this when you're chatting to those superior to you, or maybe at a time where casual chatting just won't fit. Following standard rules (like remembering to use uppercase and a period). Nothing out of the ordinary here. But you can always add some details here and there. <- much like that sentence where I added variety, using words like "always" or "here and there". Variation is always nice to have in your "style". 
 
 ## Casual 
-what about casual? well in this form u just use lowercase and abbv. Mostly everything (I still recommend you to use uppercase on 'i'). Also, when chatting casually, try to avoid writing in sentences.. but if you do, that's absolutely fine as well. Now, there are some other things to keep in mind. 
+what about casual? well in this form u just use lowercase and abbv. on just about anything (I still recommend you to use uppercase on 'i'). Also, when chatting casually, try to avoid writing in sentences.. but if you do, that's absolutely fine as well. Now, there are some other things to keep in mind. 
 
 #### Exclamation marks 
 

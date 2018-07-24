@@ -1,10 +1,3 @@
-<style>
-h1 {
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-</style>
-
 Chattography - Personality 101
 ===============================
 

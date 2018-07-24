@@ -8,6 +8,7 @@ Chattography. You'd think it's a word I just made up, well you're right, it is. 
 Why? Because I wanted an easier way to describe how people chatting in social media can have personality and express themselves. 
 The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
 
+### Jump to..
 > [Exclamation Marks](#exc)
 >
 > [Question Marks](#ques)

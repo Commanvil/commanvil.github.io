@@ -57,7 +57,7 @@ Note that these are only example abbv/words, and there could be many others as w
 Ah... did you feel that? That's the feeling of.. uh.. using lots of dots in your sentences. What do those mean anyway? 
 Well.. they give the tone of "extension". Meaning it's pronounced in a longer duration. "Um" is very quickly said, while "Um......" is similar to "Ummmm". 
 Another use is to add the tone of "uncertainty". For example. "I'm not so sure about that...." or "idk... maybe". (The more dots you put, the more the "uncertainty" tone increases) 
-_ _
+&nbsp
 Note: other times this can indicate sarcasm, such as "Sure...... I believe you......" 
 
 #### Dashes/Hyphens 

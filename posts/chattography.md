@@ -1,10 +1,14 @@
 Chattography - Personality 101
-=========================
+===============================
 
 Hey! When you're chatting with someone... do you ever want to know how to show **expressions** and **personality** while chatting to someone? Do you ever wonder what those expressions even mean? No? Well who cares, because I'm going to tell you anyway!
 
 Chattography. You'd think it's a word I just made up, well you're right, it is. I simply combined the word chat and graphic.  
 Why? Because I wanted an easier way to describe how people chatting in social media can have personality and express themselves. The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
+
+> [Conclusion](#conclusion)
+
+
 
 ## Formality 
 Let's start with being formal. Use this when you're chatting to those superior to you, or maybe at a time where casual chatting just won't fit. Following standard rules (like remembering to use uppercase and a period). Nothing out of the ordinary here. But you can always add some details here and there. <- much like that sentence where I added variety, using words like "always" or "here and there". Variation is always nice to have in your "style". 
@@ -44,6 +48,8 @@ Wait did you just- Uh.. well anyway, I'm pretty sure you know what it's used for
 #### The squiggle 
 Oh boy, we couldn't forget this important fella. Commonly used by weird people. You know like.. kyu~! or nyaaah~
 It's basically a dash/hyphen, except this one's like the cuter version. Keep in mind that dashes can't be written like "kyu-!" as the ~ is like an "extender". Similar to the dots... except that dots give a normal/uncertain tone, while squiggles give a happy tone! How sweet.. 
+
+<p id="conclusion"></p>
 
 ## Conclusion
 Eh..? Is that all I have to say? Was there even a point in all of this nonsense? Yes there is (somewhere). The point of all this is to help you send messages in a style that everyone likes. The reason why this whole thing was written mostly formal is because this isn't a chat app. This is text written onto this very website. There shouldn't be any casual abbv. nor should there be any odd lowercase sentences (except there was one point where I did, intentionally) Which is why you should always change your style depending on the context. 

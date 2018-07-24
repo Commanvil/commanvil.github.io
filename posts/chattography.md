@@ -1,4 +1,4 @@
-Chattography - Casual 101
+Chattography - Personality 101
 =========================
 
 Hey! When you're chatting with someone... do you ever want to know how to show **expressions** and **personality** while chatting to someone? Do you ever wonder what those expressions even mean? No? Well who cares, because I'm going to tell you anyway!

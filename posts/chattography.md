@@ -9,19 +9,19 @@ Why? Because I wanted an easier way to describe how people chatting in social me
 The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
 
 ### Jump to..
-> [Exclamation Marks](#exc)
+> **[Exclamation Marks](#exc)**
 >
-> [Question Marks](#ques)
+> **[Question Marks](#ques)**
 >
-> [Capitalization](#caps)
+> **[Capitalization](#caps)**
 >
-> [Quotation Marks](#quot)
+> **[Quotation Marks](#quot)**
 >
-> [Dots and Periods](#dots)
+> **[Dots and Periods](#dots)**
 >
-> [The Squiggle](#squig)
+> **[The Squiggle](#squig)**
 >
-> [Conclusion](#conclusion)
+> **[Conclusion](#conclusion)**
 
 
 ## Formality 

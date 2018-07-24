@@ -8,8 +8,13 @@ Chattography. You'd think it's a word I just made up, well you're right, it is. 
 Why? Because I wanted an easier way to describe how people chatting in social media can have personality and express themselves. 
 The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
 
+> [Exclamation Marks](#exc)
+> [Question Marks](#ques)
+> [Capitalization](#caps)
+> [Quotation Marks](#quot)
+> [Dots and Periods](#dots)
+> [The Squiggle](#squig)
 > [Conclusion](#conclusion)
-
 
 
 ## Formality 
@@ -22,7 +27,9 @@ Variation is always nice to have in your "style".
 what about casual? well in this form u just use lowercase and abbv. 
 on just about anything (I still recommend you to use uppercase on 'i'). 
 Also, when chatting casually, try to avoid writing in sentences.. but if you do, that's absolutely fine as well. 
-Now, there are some other things to keep in mind. 
+Now, let's look at some punctuation that can be used in expressing yourself. 
+
+<p id="exc"></p>
 
 #### Exclamation marks 
 
@@ -40,28 +47,40 @@ Just look up on how exclamation marks are used in commanding or even sarcasm. An
 Another thing to note is that exclamation marks should be placed in phrases and not just in a single word. 
 "shut up!!" is fine-ish, while "shut!!" is not. 
 
+<p id="ques"></p>
+
 #### Question marks 
 Much simpler to use compared to exclamation marks. It's mostly not cringy so feel free to use them. 
 I will say a couple of things however: Saying "?" alone sounds like a "eh?" tone, while saying "?????" is like saying "huhhhh?". 
 Most casual chatters that use question words like "what/wot/why/when/where" are too lazy to use question marks or just don't feel like it. 
+
+<p id="caps"></p>
 
 #### Capitalization 
 As said before, some words may sound odd when capitalized. Especially when you say "Wtf/Omg/Lol" like that. 
 It's very disturbing because it's like you're mixing something formal and something casual together into a huge bowl of mess. 
 Note that these are only example abbv/words, and there could be many others as well. 
 
+<p id="quot"></p>
+
 #### Quotation marks 
 "Pretty simple, casual chatters use it for sarcasm. Other times for innuendos.. or just use it as it should be used." or is it.. (yes it is)
+
+<p id="dots"></p>
 
 #### Dots and periods 
 Ah... did you feel that? That's the feeling of.. uh.. using lots of dots in your sentences. What do those mean anyway? 
 Well.. they give the tone of "extension". Meaning it's pronounced in a longer duration. "Um" is very quickly said, while "Um......" is similar to "Ummmm". 
 Another use is to add the tone of "uncertainty". For example. "I'm not so sure about that...." or "idk... maybe". (The more dots you put, the more the "uncertainty" tone increases) 
 <br>
-Note: other times this can indicate sarcasm, such as "Sure...... I believe you......" 
+**Note: other times this can indicate sarcasm, such as "Sure...... I believe you......"**
+
+<p id="dash"></p>
 
 #### Dashes/Hyphens 
 Wait did you just- Uh.. well anyway, I'm pretty sure you know what it's used for. It's when texts are cut out suddenl- or maybe connecting some-word-you-made-up into one. Many uses. 
+
+<p id="squig"></p>
 
 #### The squiggle 
 Oh boy, we couldn't forget this important fella. Commonly used by weird people. You know like.. kyu~! or nyaaah~

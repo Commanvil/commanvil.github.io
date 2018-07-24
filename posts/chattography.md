@@ -1,7 +1,7 @@
 Chattography - Personality 101
 ===============================
 
-Hey! When you're chatting with someone... do you ever want to know how to show **expressions** and **personality** while chatting to someone? 
+Hey! When you're chatting with someone... do you ever want to know how to show **expressions** and **personality**? 
 Do you ever wonder what those expressions even mean? No? Well who cares, because I'm going to tell you anyway!
 
 Chattography. You'd think it's a word I just made up, well you're right, it is. I simply combined the word chat and graphic.  

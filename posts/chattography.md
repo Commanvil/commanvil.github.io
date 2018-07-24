@@ -8,6 +8,18 @@ Chattography. You'd think it's a word I just made up, well you're right, it is. 
 Why? Because I wanted an easier way to describe how people chatting in social media can have personality and express themselves. 
 The point of all this is to tell you what "tones" you are actually giving when chatting towards other people. 
 
+## Formality 
+Let's start with being formal. Use this when you're chatting to those superior to you, or maybe at a time where casual chatting just won't fit. 
+Following standard rules (like remembering to use uppercase and a period). Nothing out of the ordinary here. 
+But you can always add some details here and there. <- much like that sentence where I added variety, using words like "always" or "here and there". 
+Variation is always nice to have in your "style". 
+
+## Casual 
+what about casual? well in this form u just use lowercase and abbv. 
+on just about anything (I still recommend you to use uppercase on 'i'). 
+Also, when chatting casually, try to avoid writing in sentences.. but if you do, that's absolutely fine as well. 
+Now, let's look at some punctuation that can be used in expressing yourself. 
+
 ### Jump to..
 > **[Exclamation Marks](#exc)**
 >
@@ -23,18 +35,6 @@ The point of all this is to tell you what "tones" you are actually giving when c
 >
 > **[Conclusion](#conclusion)**
 
-
-## Formality 
-Let's start with being formal. Use this when you're chatting to those superior to you, or maybe at a time where casual chatting just won't fit. 
-Following standard rules (like remembering to use uppercase and a period). Nothing out of the ordinary here. 
-But you can always add some details here and there. <- much like that sentence where I added variety, using words like "always" or "here and there". 
-Variation is always nice to have in your "style". 
-
-## Casual 
-what about casual? well in this form u just use lowercase and abbv. 
-on just about anything (I still recommend you to use uppercase on 'i'). 
-Also, when chatting casually, try to avoid writing in sentences.. but if you do, that's absolutely fine as well. 
-Now, let's look at some punctuation that can be used in expressing yourself. 
 
 <p id="exc"></p>
 

@@ -1,7 +1,7 @@
 Life
 ====
 ![Picture of a man](https://images.pexels.com/photos/103123/pexels-photo-103123.jpeg?cs=srgb&dl=clouds-fashion-free-103123.jpg&fm=jpg)
-------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 Something we all wonder at some point.. **What is the meaning of life?**
 Do we have a reason to live? Wouldn't it better to just kill ourselves and just remove all the suffering that we anticipate every single day? Those are great questions, but let's think a little deeper. 

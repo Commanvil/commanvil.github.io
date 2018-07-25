@@ -35,7 +35,7 @@ Nothing but emptiness. All the friends you made? They probably **forgot** about 
 They do remember you, but at the same time they **don't want to remember you...** It's not your fault, it's just that they want to live a **happy** life. 
 That is the cycle of Life and Death. You live, there's stuff, you die, stuff disappears, you disappear. You're gone. Erased. Wiped out. Non-existent. 
 You can't breathe even if you try, you can't see yourself, you can't go insane even if you wanted to, you're suffocating in nothing. It's okay, you won't have any memory that you're dead. 
-<span style=color:red>Cause you don't want yourself to feel your body slowly decomposing into tiny little bits until you're nothing but a dead skeleton. </span>
+<span style="color:red">Cause you don't want yourself to feel your body slowly decomposing into tiny little bits until you're nothing but a dead skeleton. </span>
 Isn't that how life works? By forgetting the concept itself and enjoy it while it lasts, and when it does end, it ends forever. 
 Why do they teach people to believe in God? Maybe they just want to have a way to think all is well and good, and there's nothing you should worry about. 
 You're absolutely fine, right? You have God to just bring you to heaven and.. how do you even know if that's true of not? You know what I say? Only God knows if God exists or not. 

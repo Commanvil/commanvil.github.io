@@ -8,6 +8,7 @@ My stuff
 ---------
 
 **[Chattography](posts/chattography) - How to chat with personality**
+<br>
 **[Life](posts/life)**
 
 

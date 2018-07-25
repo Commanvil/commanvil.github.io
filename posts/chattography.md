@@ -1,6 +1,9 @@
 Chattography - Personality 101
 ===============================
 
+![Chatting](https://images.pexels.com/photos/374720/pexels-photo-374720.jpeg?cs=srgb&dl=adult-business-computer-374720.jpg&fm=jpg)
+<p></p>
+
 Hey! When you're chatting with someone... do you ever want to know how to show **expressions** and **personality**? 
 Do you ever wonder what those expressions even mean? No? Well who cares, because I'm going to tell you anyway!
 

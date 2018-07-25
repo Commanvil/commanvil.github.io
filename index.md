@@ -8,9 +8,8 @@ My stuff
 ---------
 All the weird stuff I wrote can be found here.
 
-#### [Chattography](posts/chattography) - How to chat with personality
-
-#### [Life](posts/life)
+- #### [Chattography](posts/chattography) - How to chat with personality
+- #### [Life](posts/life)
 
 
 ### About

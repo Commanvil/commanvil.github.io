@@ -54,3 +54,5 @@ That phrase has made **a lot more sense** to me than it did before.
 <br><br>
 After reading this, refresh yourself with a nice cup of tea.. maybe watch some videos and maybe play your favourite games. Because you don't have much time, don't you now? 
 The next time someone says **"Happy Birthday"** to you, don't forget, it just means you're one year closer to death. And as always, **I hope this is (somewhat) useful in the future.**
+<br><br>
+[<<Warp me back to the homepage!](https://commanvil.github.io)

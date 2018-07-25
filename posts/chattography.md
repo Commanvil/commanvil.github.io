@@ -110,3 +110,5 @@ Today you just learned the tip of the iceberg of Dos and Don'ts on how to chat. 
 I hope this (somewhat) helps you in the future. 
 
 (Tip: messages in brackets sound like when you're mumbling)
+<br><br>
+[<<Warp me back to the homepage!](https://commanvil.github.io)

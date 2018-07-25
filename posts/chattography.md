@@ -66,7 +66,8 @@ Most casual chatters that use question words like "what/wot/why/when/where" are 
 #### Capitalization 
 As said before, some words may sound odd when capitalized. Especially when you say "Wtf/Omg/Lol" like that. 
 It's very disturbing because it's like you're mixing something formal and something casual together into a huge bowl of mess. 
-Note that these are only example abbv/words, and there could be many others as well. 
+Note that these are only example abbv/words, and there could be many others as well. You already know this but I might as well put it here, **CAPS GIVE A STRONG EMPHASIS MUCH LIKE SCREAMING
+SO IF YOU WANT TO READ CAPS READ IT OUT LOUD.**
 
 <p id="quot"></p>
 

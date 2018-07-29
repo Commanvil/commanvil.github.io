@@ -39,8 +39,8 @@ They do remember you, but at the same time they **don't want to remember you...*
 That is the cycle of Life and Death. You live, there's stuff, you die, stuff disappears, you disappear. You're gone. Erased. Wiped out. Non-existent. 
 You can't breathe even if you try, you can't see yourself, you can't go insane even if you wanted to, you're suffocating in nothing. It's okay, you won't have any memory that you're dead. 
 <br><br>
-**Cause you don't want yourself to feel your body slowly decomposing into tiny little bits having all your organs inside you chewed up and destroyed, all your blood getting sucked into the void 
-until you're nothing but a dead skeleton.**
+<span style="color:red">**Cause you don't want yourself to feel your body slowly decomposing into tiny little bits having all your organs inside you chewed up and destroyed, all your blood getting sucked into the void 
+until you're nothing but a dead skeleton.**</span>
 <br><br>
 Isn't that how life works? By forgetting the concept itself and enjoy it while it lasts, and when it does end, it ends forever. 
 Why do people believe in God? Maybe they just want to have a way to think all is well and good, and there's nothing you should worry about. 

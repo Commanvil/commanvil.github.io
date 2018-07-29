@@ -14,4 +14,4 @@ All the weird stuff I wrote can be found here.
 
 ### About
 
-Hi. I do stuff, I learn stuff, and end up doing stuff. **I have no idea what I'm doing**
+<span style="color:red">Hi.</span> I do stuff, I learn stuff, and end up doing stuff. **I have no idea what I'm doing**

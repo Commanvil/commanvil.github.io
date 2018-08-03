@@ -44,8 +44,8 @@ You should be worried if you're healthy and not the type who wants to see what s
 (Before going to the next topic I just want to say that I'm sorry for what I'm going to say next.. except not really)
 
 ### Your subconcious 
-The next topic is a little bit more towards how you remember things. As I said before, you tend to remember bad memories more than good ones most of the time. 
-My guess is that this is your brain learning from your previous mistakes. You don't want to repeat the same embarrassment twice in front of class, it's good that you remember not to do it next time. 
+This next topic is a little bit more towards how you remember things. As I said before, you tend to remember bad memories more than good ones most of the time. 
+My guess is that this is your brain learning from your previous mistakes. You don't want to repeat that same embarrassment twice in front of the class, it's good that you remember not to do it next time. 
 To learn. Someone once said "You learn something, when it's already too late". I can't agree more. You fail at something, you learn not to fail next time. 
 That's just how it works. You do these things subconsciously. 
 

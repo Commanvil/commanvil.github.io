@@ -1,6 +1,8 @@
 M3M0RY
 =========
 
+![Consious](https://images.pexels.com/photos/69096/pexels-photo-69096.jpeg?cs=srgb&dl=adorable-baby-cute-69096.jpg&fm=jpg)
+
 ### The Forgotten
 Ever have that feeling where it's as if you forgot something? Do you also ever get that feeling where your disk space is full for some reason? 
 Okay no we're not talking about computers' memory but instead, we're going to talk about yours. Your memory. I'm no expert I don't do any brain analysis or whatever the hell scientists know or do these days not do I do plenty of research. 

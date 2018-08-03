@@ -10,6 +10,7 @@ All the weird stuff I wrote can be found here.
 
 - #### [Chattography](posts/chattography) - How to chat with personality
 - #### [Life](posts/life) - Deep thoughts
+- #### [M3M0RY](posts/memory) - I wonder, I wander.
 
 
 ### About

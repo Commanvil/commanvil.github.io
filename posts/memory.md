@@ -47,7 +47,7 @@ My guess is that this is your brain learning from your previous mistakes. You do
 To learn. Someone once said "You learn something, when it's already too late". I can't agree more. You fail at something, you learn not to fail next time. 
 That's just how it works. You do these things subconsciously. 
 
-#### Manual Mode
+#### Automatic/Manual Mode
 You know what else you do subconsciously? Blinking. Breathing. Those stuff. Of course now you're reminded and will continue to do it manually, but eventually you'll forget and have it back on automatic. 
 What else do you do subconsciously? Reading? Playing rhythm games? What about sleep? Do you ever have that moment when you want to know when's the moment you fall asleep, but end up not sleeping at all? 
 Yeah that sucks. So, what else is there left to say about memory? Maybe when you're at school and you have to study about a stupid subject no one likes? 
@@ -62,10 +62,10 @@ Just.. highlight or something I don't know. Some say use flashcards, some say tr
 
 ### What are you?
 Well, that just about wraps up for this topic, I don't really have much to say other than this: you're not in control. You are not you. 
-You subconsciously do things, you can end up doing something, but end up forgetting why you stood up and walked to the kitchen. 
+You subconsciously do things, you can end up doing something, and end up forgetting why you walked to the kitchen. 
 You forgot what to grab. Memory becomes disrupted. Blurry. Fuzzy. What is that thing you're trying to get from the kitchen.. What is it.. and at last, you remembered. 
-You just wanted to look at your new kitchen. That's all. You didn't really want to grab anything, no actually you just remembered you wanted to grab a plate. 
+You just wanted to look at your new kitchen. That's all. You didn't really want to grab anything, **no actually you just remembered you wanted to grab a plate.**
 That new kitchen though.. you feel like the memories of the old kitchen disappearing. Reappearing in your mind only once in your dreams before vanishing into nothing but thin air. 
 Though dreams can't really be thin air, they're just.. visualizations or.. illusions in your mind. It's all in your head, buddy.
-<br>
+<br><br>
 And as always, I hope this (somewhat) inspired you, in the near future.
